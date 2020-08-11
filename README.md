@@ -41,3 +41,24 @@ Tela de artigos<br>
 #### Admin Page
 Tela de Administrador<br>
 ![admin-mobile](https://github.com/MicaelRiboura/knowledge/blob/master/images-screenshots/admin-mobile.jpg)
+
+### Commands
+Comandos
+#### `npm run serve`
+Start the application<br>
+Inicializa a aplicação
+#### `npm run dist`
+Builds the app for production to the `dist` folder.<br>
+COnstrói a versão de produção do app para a pasta `dist`
+
+## Back-End
+A devoleloped API in Node.js, with 2 different databases, PostgreSQL and MongoDB for Dashboard statistics<br>
+Uma API desenvolvida em Node.js, com 2 bancos de dados diferentes, PostgreSql e MongoDB para as estatísticas do Dashboard
+
+### Commands
+Comandos
+#### `npm start`
+Start the application<br>
+Inicializa a aplicação
+
+
