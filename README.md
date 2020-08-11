@@ -4,6 +4,40 @@ Aplicação Web para gerenciamento de artigos de conhecimento de tecnologia, des
 Web Application for knowledge articles management, developed in Cod3r Course - Front-end: Vue.js | Back-end: Node.js 
 
 ## Front-End
-### Overview
-Desenvolvido em Vue.js, totalmente responsivo
-![dashboard-page](https://github.com/MicaelRiboura/knowledge/blob/master/images-screenshots/login-page.jpg)
+### Desktop Screenshots
+Capturas de tela em Desktop
+#### Login Page
+Tela de login
+![login-page](https://github.com/MicaelRiboura/knowledge/blob/master/images-screenshots/login-page.jpg)
+#### Register Page
+Tela de cadastro
+![register-page](https://github.com/MicaelRiboura/knowledge/blob/master/images-screenshots/register-page.jpg)
+#### Dashboard Page
+Tela de Painel
+![dashboard-page](https://github.com/MicaelRiboura/knowledge/blob/master/images-screenshots/dashboard-page.jpg)
+#### Articles Page
+Tela de artigos
+![dashboard-page](https://github.com/MicaelRiboura/knowledge/blob/master/images-screenshots/articles-page.jpg)
+#### Article Detail Page
+Tela de Detalhes do Artigo
+![dashboard-page](https://github.com/MicaelRiboura/knowledge/blob/master/images-screenshots/article-detail-page.jpg)
+#### Admin Page
+Tela de Administrador
+![dashboard-page](https://github.com/MicaelRiboura/knowledge/blob/master/images-screenshots/admin-page.jpg)
+
+### Mobile Screenshots
+#### Login Page
+Tela de login
+![login-page](https://github.com/MicaelRiboura/knowledge/blob/master/images-screenshots/login-mobile.jpg)
+#### Register Page
+Tela de cadastro
+![register-page](https://github.com/MicaelRiboura/knowledge/blob/master/images-screenshots/register-mobile.jpg)
+#### Dashboard Page
+Tela de Painel
+![dashboard-page](https://github.com/MicaelRiboura/knowledge/blob/master/images-screenshots/dashboard-mobile.jpg)
+#### Articles Page
+Tela de artigos
+![dashboard-page](https://github.com/MicaelRiboura/knowledge/blob/master/images-screenshots/articles-mobile.jpg)
+#### Admin Page
+Tela de Administrador
+![dashboard-page](https://github.com/MicaelRiboura/knowledge/blob/master/images-screenshots/admin-mobile.jpg)
